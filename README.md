@@ -17,4 +17,4 @@ Durante os estudos de **Banco de Dados** no Instituto PROA, realizei uma ativida
 
 ## Objetivo da Atividade
 
-O objetivo foi entender os conceitos de modelagem relacional, identificar chaves primárias e estrangeiras, e construir relações entre as tabelas. Essa atividade ajudou a consolidar o entendimento de como organizar dados de forma e
+O objetivo foi entender os conceitos de modelagem relacional, identificar chaves primárias e estrangeiras, e construir relações entre as tabelas. 
